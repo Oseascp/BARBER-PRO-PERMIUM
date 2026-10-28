@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://barberpropremium.netlify.app/sitemap.xml
