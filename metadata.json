@@ -1,0 +1,6 @@
+{
+  "name": "Barber Pro Master",
+  "description": "Plataforma completa de gestão de barbearia profissional com agendamento inteligente, monitor de cadeiras em tempo real, PDV frente de caixa com comissões, CRM com fidelidade VIP e Consultor de Visagismo & Estilo com IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
